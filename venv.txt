@@ -1,0 +1,5 @@
+python -m venv venv
+.\venv\Scripts\activate
+pip install psutil requests tenacity pyinstaller
+pyi-makespec --name TikTokRecorder --windowed main.py
+pyinstaller --clean TikTokRecorder.spec

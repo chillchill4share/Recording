@@ -1,0 +1,32 @@
+16:24:12 [INFO] Đã tìm thấy FFmpeg trong thư mục ffmpeg
+16:24:12 [INFO]  dụng TikTok Recorder
+16:24:12 [DEBUG] Bắt đầu khởi tạo AppController
+16:24:12 [DEBUG] Đã thêm hàng mới với row_id: 76cd6be9-ad1c-4437-9b55-9780df105dc4
+16:24:12 [DEBUG] Khởi động monitor_threads
+16:24:12 [DEBUG] Hoàn tất khởi tạo AppController
+16:24:17 [INFO]  cho user: funachair
+16:24:17 [INFO] User funachair đang livestream. Bắt đầu ghi hình.
+16:24:18 [INFO] Bắt đầu ghi hình @funachair. Lưu vào: TK_funachair_20250626_162418_flv.mp4
+16:24:22 [INFO] Đã gửi tín hiệu Dừng cho recorder của user funachair.
+16:24:22 [INFO] Đã gửi tín hiệu Dừng & Lưu cho recorder của funachair
+16:24:22 [INFO] Bắt đầu chuyển đổi FLV sang MP4: TK_funachair_20250626_162418_flv.mp4
+16:24:22 [INFO] Chuyển đổi file TK_funachair_20250626_162418.mp4 thành công
+16:24:22 [INFO] Bắt đầu chuyển đổi MP4 sang MP3: TK_funachair_20250626_162418.mp4
+16:24:22 [INFO] Chuyển đổi file TK_funachair_20250626_162418.mp3 thành công
+16:24:22 [INFO] Luồng cho user 'funachair' đã hoàn thành, chuẩn bị dọn dẹp.
+16:24:22 [DEBUG] Bắt đầu dọn dẹp giao diện và dữ liệu cho hàng 76cd6be9-ad1c-4437-9b55-9780df105dc4
+16:24:22 [INFO] Hoàn tất dọn dẹp cho user funachair
+16:24:28 [INFO]  cho user: funachair
+16:24:28 [INFO] User funachair đang livestream. Bắt đầu ghi hình.
+16:24:29 [INFO] Bắt đầu ghi hình @funachair. Lưu vào: TK_funachair_20250626_162429_flv.mp4
+16:24:34 [INFO] Đã gửi tín hiệu Hủy cho recorder của user funachair.
+16:24:34 [WARNING] Đã gửi tín hiệu Hủy & Xóa cho recorder của funachair
+16:24:34 [WARNING] Hủy bỏ được yêu cầu, xóa file tạm cho funachair.
+16:24:34 [INFO] Đã xóa thành công file tạm.
+16:24:34 [INFO] Luồng cho user 'funachair' đã hoàn thành, chuẩn bị dọn dẹp.
+16:24:34 [DEBUG] Bắt đầu dọn dẹp giao diện và dữ liệu cho hàng 76cd6be9-ad1c-4437-9b55-9780df105dc4
+16:24:34 [INFO] Hoàn tất dọn dẹp cho user funachair
+16:24:37 [INFO] Bắt đầu quy trình đóng chương trình
+16:24:37 [INFO] Đang chờ các luồng ghi hình kết thúc...
+16:24:37 [INFO] Đã đóng ThreadPoolExecutor
+16:24:37 [INFO] Ứng dụng đã đóng thành công
