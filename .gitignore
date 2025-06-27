@@ -3,6 +3,7 @@ Output/
 ffmpeg/
 backup/
 .txt
+list.txt
 
 __pycache__/
 *.py[cod]
